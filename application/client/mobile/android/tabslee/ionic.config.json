@@ -1,0 +1,7 @@
+{
+  "name": "tabslee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
